@@ -4,4 +4,6 @@ Buenas tardes profesora, en vista de que vi que tuvo problemas con el .zip, voy 
 
 Entonces para que quede claro, adjunté todas las capas del proyecto pero también adjunte el .zip con el proyecto como lo concemos normalmente, la carpeta que es como yo lo abro en intellij IDEA, donde está las propiedades y todos los archivos adjuntos ordenados pero por si las dudas también adjunte todo separado.
 
+el archivo "lavado-autos.zip" es todo el proyecto comprimido, es el recomendable que debería ver, una vez descomprimido.
+
 Muchas gracias
